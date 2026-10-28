@@ -1,0 +1,5 @@
+# Holds real phone numbers and the agent id
+config.json
+# Call history, including the questions asked
+calls.log
+__pycache__/

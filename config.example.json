@@ -1,0 +1,9 @@
+{
+  "your_name": "Alex",
+  "from_number": "+15555550100",
+  "to_number": "+15555550199",
+  "agent_id": "",
+  "quiet_hours": { "start": "21:00", "end": "08:00" },
+  "max_calls_per_hour": 3,
+  "max_wait_seconds": 480
+}
